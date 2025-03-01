@@ -241,6 +241,3 @@ Centralize all API calls, auth, constants, and helpers in `/lib`
 ### 📌 Types (for TypeScript)
 Each entity like `User`, `Guide`, `Booking` gets a dedicated type file in `/types`
 
----
-
-# Want me to zip this into a **starter template** for you? Or create `GitHub Repo` with this structure? Let me know! 🚀✨
